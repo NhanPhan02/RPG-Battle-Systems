@@ -1,5 +1,5 @@
 # RPG-Battle-Systems
-My 2 crowning achievements from high school.
+2 Video Game projects from high school.
 
 Uncompiled copies of 2 RPG battle systems I made in Java and my first attempts at Object Oriented Programming.
 Code is a reminder of where I started.
